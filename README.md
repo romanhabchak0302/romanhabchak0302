@@ -12,3 +12,4 @@ A full-stack developer with special interest in data processing & visualization.
 <br>🔸 Backend: PHP, Laravel
 <br>🔸 Database: MySql, Postgresql, Elasticsearch
 <br>🔸 Others: EC2, Nginx, Proxy forwarding
+<br>🔸 Business: SaaS, Real Estate, e-commerce
