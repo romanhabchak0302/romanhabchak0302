@@ -1,16 +1,14 @@
-### Hi there 👋
+<h4 align='center'>
+  Vue.js/Laravel Engineer 
+</h4>
 
-<!--
-**romanhabchak0302/romanhabchak0302** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+<p>
+A full-stack developer with special interest in data processing & visualization. I am always open to new technologies, team player and open-minded.
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<br>🔸 Frontend: Vue2/Vue3, TailwindCSS, Vuetify
+<br>🔸 Other libraries: Mapbox GL JS
+<br>🔸 Backend: PHP, Laravel
+<br>🔸 Database: MySql, Postgresql, Elasticsearch
+<br>🔸 Others: EC2, Nginx, Proxy forwarding
